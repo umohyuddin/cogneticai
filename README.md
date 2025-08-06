@@ -1,2 +1,1 @@
-# cogneticai
- cogneticai
+# CogneticAI
