@@ -3,17 +3,17 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <div class="app">
+  <div>
     <a href="" target="">
       <img src="./assets/logo.png" class="logo vue" alt="logo" />
     </a>
-    <HelloWorld msg="AI at the Core. Excellence at the Edge" />
   </div>
+  <HelloWorld msg="AI at the Core. Excellence at the Edge" />
 </template>
 
 <style scoped>
 .logo {
-  height: 30em;
+  height: 25em;
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
